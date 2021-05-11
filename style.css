@@ -13,6 +13,9 @@ img {
   height: 200px;
   width: 200px;
 }
+.pricing-table {
+  margin: 0 20px;
+}
 .panel {
   background-color: white;
   border-radius: 10px;
@@ -32,7 +35,7 @@ img {
 }
 .pricing-img {
   margin-bottom: 25px;
-  width: 100%;
+  /* width: 100%; */
   max-width: 100%;
 }
 .pricing-header {
